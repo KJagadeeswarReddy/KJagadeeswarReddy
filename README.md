@@ -2,7 +2,7 @@
 - 👀 I’m interested in Physics and Computer Science
 - 🌱 I’m currently learning Web Developement
 - 💞️ I’m looking to collaborate on Database management and Building AI applications.
-- 📫 How to reach me ...
+- 📫 How to reach me Jagadeeswaraks@gmail.com
 
 <!---
 KJagadeeswarReddy/KJagadeeswarReddy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
