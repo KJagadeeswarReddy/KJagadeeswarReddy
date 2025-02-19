@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @KJagadeeswarReddy
-- 👀 I’m interested in Physics and Computer Science
-- 🌱 I’m currently learning Web Developement
+- 👀 I’m interested in Physics and Artificial Intelligence
+- 🌱 I’m currently learning Agentic AI.
 - 💞️ I’m looking to collaborate on Database management and Building AI applications.
-- 📫 How to reach me Jagadeeswaraks@gmail.com
+- 📫 How to reach me contact@jagadeeswar.me
 
 <!---
 KJagadeeswarReddy/KJagadeeswarReddy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
